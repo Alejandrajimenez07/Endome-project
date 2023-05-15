@@ -60,3 +60,9 @@ a {
     color: #362625;
 }
 
+nav ul{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
