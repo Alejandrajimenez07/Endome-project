@@ -9,6 +9,8 @@ body {
     height: 30px;
 }
 
+/*----Heading----*/
+
 #heading {
     font-size: larger;
     background-color: #B65952;
@@ -38,6 +40,10 @@ h2 {
     position: relative;
 }
 
+/*----Heading----*/
+
+/*----Nav bar----*/
+
 #menu {
     background-color: #B65952;
 
@@ -51,18 +57,27 @@ h2 {
     text-align: center;
     font-weight: bold;
     padding: 0px;
-    position: relative;
-
+    letter-spacing: 3px;
+    font-weight: 700;
 }
 
 a {
-    text-decoration: none;
     color: #362625;
+
 }
 
 nav ul{
-    margin: 0;
-    padding: 0;
+    margin: 20px;
+    padding: 10px;
     border: 0;
+    }
+nav ul li {
+    display: inline-block;
+    
 }
 
+nav a:hover {
+    border-bottom: 2px solid #362625;
+}
+
+/*----Nav bar----*/
