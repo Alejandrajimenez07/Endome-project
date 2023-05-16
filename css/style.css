@@ -29,7 +29,7 @@ header {
     margin: 0;
     text-align: left;
     text-decoration: none;
-    font-weight: 600;
+    font-weight: 700;
 
 }
 
@@ -38,6 +38,8 @@ h2 {
     padding: 0;
     border: 0;
     position: relative;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 /*----Heading----*/
@@ -81,3 +83,9 @@ nav a:hover {
 }
 
 /*----Nav bar----*/
+
+/*---Hero image----*/
+
+.hero-image {
+    background: url("/css/img/Endome.png") ;
+}
