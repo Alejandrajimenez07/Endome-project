@@ -100,6 +100,13 @@ nav a:hover {
 .about-endome {
     position: absolute;
     display: inline-block;
-    text-align: center;
+    margin: 0;
+    padding: 0px 10px;
+    margin: 0;
+    padding: 0px 50px;
+    color: #362625;
+    font-weight: 500;
+    border: none;
 }
+
 
