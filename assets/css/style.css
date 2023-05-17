@@ -90,6 +90,16 @@ nav a:hover {
     background: no-repeat center;
     width: 450px;
     height: 450px;
-    background-position: left;
-    margin-top: 10px;
 }
+.home-page-image {
+    margin-top: 80px;
+    width: 600px;
+
+}
+
+.about-endome {
+    position: absolute;
+    display: inline-block;
+    text-align: center;
+}
+
