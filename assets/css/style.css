@@ -90,12 +90,17 @@ nav a:hover {
     background: no-repeat center;
     width: 450px;
     height: 450px;
+    border-radius: 10%;
 }
 .home-page-image {
     margin-top: 80px;
     width: 600px;
 
 }
+
+/*----Hero image----*/
+
+/*----About Endome Section----*/
 
 .about-endome {
     position: absolute;
@@ -108,5 +113,21 @@ nav a:hover {
     font-weight: 500;
     border: none;
 }
+
+/*----About Endome section----*/
+
+/*----Footer----*/
+
+.footer-section {
+    background-color: #B65952;
+    margin: 0 auto;
+    padding: 0;
+    border: none;
+    width: 100%;
+    height: 45px;
+    bottom: 0;
+    position: absolute;
+}
+
 
 
