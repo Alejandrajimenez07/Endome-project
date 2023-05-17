@@ -141,12 +141,13 @@ footer {
 .social-media {
     list-style-type: none;
     display: inline-block;
-    position: relative;
+    
 }
 
 .social-media li {
     display: inline-block;
     letter-spacing: 10px;
+    widht: 50px;
    
 }
 
@@ -160,7 +161,6 @@ footer {
 .social-media-links {
     width: 50%;
     height: 100%;
-    position: relative;
     display: inline-block;
     background: #B65952;
 }
