@@ -17,15 +17,9 @@ body {
     background-color: #E9E0E1;
 }
 
-
 /*----Heading----*/
 
 /*----Nav bar----*/
-
-#menu {
-    background-color: #B65952;
-
-}
 
 nav {
     background-color: #B65952;
@@ -40,10 +34,6 @@ nav {
     margin-right: 10px;
 }
 
-
-.nav-bar li {
-    list-style-type: none;
-}
 
 .nav-link {
     text-decoration: none;
@@ -60,16 +50,7 @@ a {
 
 }
 
-nav ul{
-    margin: 20px;
-    padding: 10px;
-    border: 0;
-    }
 
-nav ul li {
-    display: inline-block;
-    
-}
 
 nav a:hover {
     border-bottom: 2px solid #362625;
