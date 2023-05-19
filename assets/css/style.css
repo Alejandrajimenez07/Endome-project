@@ -24,7 +24,8 @@ body {
 nav {
     background-color: #B65952;
     display: flex;
-    justify-content: space-between
+    justify-content: space-between;
+    margin-bottom: 20px;
 }
 
 .nav-links {
@@ -43,6 +44,13 @@ nav {
 .main-header {
     padding-bottom: 10px;
     margin-top: 5px;
+    letter-spacing: 3px;
+    margin-left: 20px;
+    font-weight: 500;
+}
+
+.header-link {
+    text-decoration: none;
 }
 
 a {
@@ -50,31 +58,56 @@ a {
 
 }
 
-
-
 nav a:hover {
-    border-bottom: 2px solid #362625;
+    color: #E9E0E1;
 }
 
 /*----Nav bar----*/
-
-/*---Hero image----*/
-
-.hero-image {
-    border-radius: 10%;
-}
-
-/*----Hero image----*/
 
 /*----About Endome Section----*/
 
 .about-endome {
     color: #362625;
     font-weight: 500;
-    word-break: break-all;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
 }
 
 /*----About Endome section----*/
+
+/*---Hero image----*/
+
+.hero-image {
+    border-radius: 10%;
+    max-width: 200px;
+    max-height: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/*----Hero image----*/
+
+.stages-container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.container-stage {
+    background: #B65952;
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.container-stage ul {
+    list-style-type: none;
+}
 
 /*----Footer----*/
 
@@ -82,6 +115,7 @@ nav a:hover {
     background: #B65952;
     border: none;
     text-align: center;
+    padding: 15px;
 }
 
 footer {
@@ -92,6 +126,7 @@ footer {
     list-style-type: none;
     display: flex;
     justify-content: center;
-    gap: 10px;
-    
+    gap: 20px;
+    align-items: center;
 }
+
