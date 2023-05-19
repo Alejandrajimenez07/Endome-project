@@ -1,47 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+     height: 100%;
+    }
+
+body > footer {
+  position: sticky;
+  top: 100vh;
+}
+
 body {
     font-family: 'Montserrat', sans-serif ;
     background-color: #E9E0E1;
-    text-align: center;
-    margin: 0px;
-}
-.heading-menu {
-    width: 100%;
-    height: 30px;
 }
 
-/*----Heading----*/
-
-#heading {
-    font-size: larger;
-    background-color: #B65952;
-    text-decoration: none;
-    text-transform: uppercase;
-    padding: 3px 20px;
-    margin: 0;
-    border: 10px;
-    letter-spacing: 3px;
-    width: 100%;
-    height: 55px;
-    position: absolute;
-    border-bottom: solid 1px #362625;
-}
-
-header {
-    margin: 0;
-    text-align: left;
-    text-decoration: none;
-    font-weight: 700;
-
-}
-
-h2 {
-    margin: 10px;
-    padding: 0;
-    border: 0;
-    position: relative;
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
 
 /*----Heading----*/
 
@@ -51,17 +26,33 @@ h2 {
     background-color: #B65952;
 
 }
-.nav-bar ul {
+
+nav {
+    background-color: #B65952;
+    display: flex;
+    justify-content: space-between
+}
+
+.nav-links {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-right: 10px;
+}
+
+
+.nav-bar li {
     list-style-type: none;
-    float: right;
-    position: relative;
-    text-transform: capitalize;
-    margin-right: 20px;
-    text-align: center;
-    font-weight: bold;
-    padding: 0px;
-    letter-spacing: 3px;
-    font-weight: 700;
+}
+
+.nav-link {
+    text-decoration: none;
+    
+}
+
+.main-header {
+    padding-bottom: 10px;
+    margin-top: 5px;
 }
 
 a {
@@ -74,6 +65,7 @@ nav ul{
     padding: 10px;
     border: 0;
     }
+
 nav ul li {
     display: inline-block;
     
@@ -88,15 +80,7 @@ nav a:hover {
 /*---Hero image----*/
 
 .hero-image {
-    background: no-repeat center;
-    width: 450px;
-    height: 450px;
     border-radius: 10%;
-}
-.home-page-image {
-    margin-top: 80px;
-    width: 600px;
-
 }
 
 /*----Hero image----*/
@@ -104,15 +88,9 @@ nav a:hover {
 /*----About Endome Section----*/
 
 .about-endome {
-    position: absolute;
-    display: inline-block;
-    margin: 0;
-    padding: 0px 10px;
-    margin: 0;
-    padding: 0px 50px;
     color: #362625;
     font-weight: 500;
-    border: none;
+    word-break: break-all;
 }
 
 /*----About Endome section----*/
@@ -121,47 +99,18 @@ nav a:hover {
 
 .footer-container {
     background: #B65952;
-    margin: 30px auto;
-    padding: 0;
     border: none;
-    width: 100%;
-    height: 45px;
-    bottom: 0;
-    position: absolute;
-    margin-bottom: 0;
+    text-align: center;
 }
 
 footer {
     border-top: solid 1px #362625;
-    padding-top: 4px;
-    letter-spacing: 1px;
-    height: 45px;
 }
 
 .social-media {
     list-style-type: none;
-    display: inline-block;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
     
 }
-
-.social-media li {
-    display: inline-block;
-    letter-spacing: 10px;
-    widht: 50px;
-   
-}
-
-.copyright {
-    width: 50%;
-    height: 100%;
-    position: relative;
-    display: inline-block;
-}
-
-.social-media-links {
-    width: 50%;
-    height: 100%;
-    display: inline-block;
-    background: #B65952;
-}
-
