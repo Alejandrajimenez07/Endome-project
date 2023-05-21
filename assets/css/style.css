@@ -139,11 +139,30 @@ footer {
     margin-top: 30px;
     margin bottom: 30px;
 }
+
+.symptoms-introduction{
+    margin-bottom: 20px;
+
+}
 .container-symptoms {
-    background: #B65952;
+    background: #C66963;
     border: none;
     text-align: center;
     padding: 15px;
     margin: 10px;
     display: flex;
 }
+
+.container-symptoms {
+    width: 400px;
+    height: 300px;
+    justify-content: center;
+    gap: 15px;
+    display: inline-block;
+    border-radius: 5%;
+}
+
+.container-symptoms ul {
+    list-style-type: none;
+}
+
