@@ -89,6 +89,8 @@ nav a:hover {
 
 /*----Hero image----*/
 
+/*----Stages----*/
+
 .stages-container {
     display: flex;
     gap: 20px;
@@ -130,3 +132,18 @@ footer {
     align-items: center;
 }
 
+/*----Symptoms page----*/
+
+.symptoms-container {
+    text-align: center;
+    margin-top: 30px;
+    margin bottom: 30px;
+}
+.container-symptoms {
+    background: #B65952;
+    border: none;
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+    display: flex;
+}
