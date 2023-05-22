@@ -100,7 +100,7 @@ nav a:hover {
 }
 
 .container-stage {
-    background: #B65952;
+    background: #C1716B;
     width: 200px;
     height: 200px;
     border-radius: 5px;
@@ -132,7 +132,9 @@ footer {
     align-items: center;
 }
 
-/*----Symptoms page----*/
+/*---------Symptoms page--------*/
+
+/*----Symptoms section----*/
 
 .symptoms-container {
     text-align: center;
@@ -145,7 +147,7 @@ footer {
 
 }
 .container-symptoms {
-    background: #C66963;
+    background: #C1716B;
     border: none;
     text-align: center;
     padding: 15px;
@@ -166,3 +168,24 @@ footer {
     list-style-type: none;
 }
 
+/*----Symptoms section----*/
+
+/*----Treatment and Tips section----*/
+
+.treatment-container {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.treatment-section {
+    margin: ;
+}
+
+.treatment {
+    background: #C1716B; 
+    margin: 20px;
+}
