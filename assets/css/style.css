@@ -215,16 +215,29 @@ footer {
 .contact-container {
     text-align: center;
     margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 .contact-paragraph {
     background: #E6CACA;
     margin: 10px 40px;
-    padding: 10px;
+    padding: 20px;
+    text-align: center;
 }
 
 .contact-form-container {
     background: #C1716B;
-    width: 300px;
-    height: 300px;
+    margin: 10px 100px;
+    padding: 20px;
+}
+
+.contact-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.form-contact {
+    
 }
