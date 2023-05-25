@@ -74,6 +74,7 @@ nav a:hover {
     align-items: center;
     flex-direction: column;
     text-align: center;
+    margin: 20px;
 }
 
 /*----About Endome section----*/
@@ -85,7 +86,7 @@ nav a:hover {
     max-width: 200px;
     max-height: 200px;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 /*----Hero image----*/
@@ -96,8 +97,8 @@ nav a:hover {
     display: flex;
     gap: 20px;
     justify-content: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .container-stage {
@@ -106,6 +107,7 @@ nav a:hover {
     height: 200px;
     border-radius: 5px;
     text-align: center;
+    padding: 5px;
 }
 
 .container-stage ul {
