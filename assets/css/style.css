@@ -210,12 +210,15 @@ footer {
 
 /*-----Symptoms page-----*/
 
-/*----Contact page----*/
+/*--------Contact page--------*/
+
+/*----Contact form----*/
 
 .contact-container {
     text-align: center;
     margin-top: 40px;
     margin-bottom: 40px;
+    border-radius: 5px;
 }
 
 .contact-paragraph {
@@ -229,6 +232,8 @@ footer {
     background: #C1716B;
     margin: 10px 100px;
     padding: 20px;
+    text-align: center;
+    border-radius: 5px;
 }
 
 .contact-form {
@@ -239,5 +244,24 @@ footer {
 }
 
 .form-contact {
-    
+    text-align: center;
+}
+
+/*-----Contact form-----*/
+
+/*-----Contact page image----*/
+
+.contact-image {
+    background: #E6CACA;
+    margin: 20px;
+    display: flex;
+    border-radius: 5px;
+
+}
+.image-contact {
+    border-radius: 10px;
+    max-width: 600px;
+    max-height: 500px;
+    margin: 20px;
+    align-items: center;
 }
