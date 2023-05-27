@@ -110,6 +110,7 @@ nav a:hover {
     justify-content: center;
     margin-top: 30px;
     margin-bottom: 30px;
+    color:#362625;
 }
 
 .container-stage {
@@ -126,7 +127,7 @@ nav a:hover {
 }
 
 .container-stage ul li {
-    font-weight: 500;
+    font-weight: 600;
 }
 
 /*----Footer----*/
