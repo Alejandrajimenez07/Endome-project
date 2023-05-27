@@ -78,8 +78,16 @@ nav a:hover {
     flex-direction: column;
     text-align: center;
     margin: 20px;
+    padding: 10px;
+}
+.about-endome h2 {
+    margin-bottom: 10px;
+    text-transform: capitalize;
 }
 
+.about-endome p {
+    font-weight: 500;
+}
 /*----About Endome section----*/
 
 /*---Hero image----*/
@@ -88,7 +96,7 @@ nav a:hover {
     border-radius: 10px;
     max-width: 250px;
     max-height: 250px;
-    margin-top: 20px;
+    margin-top: 10px;
     margin-bottom: 30px;
 }
 
@@ -115,6 +123,10 @@ nav a:hover {
 
 .container-stage ul {
     list-style-type: none;
+}
+
+.container-stage ul li {
+    font-weight: 500;
 }
 
 /*----Footer----*/
