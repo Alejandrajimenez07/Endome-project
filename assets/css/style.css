@@ -143,10 +143,19 @@ footer {
     text-align: center;
     margin-top: 30px;
     margin-bottom: 30px;
+    color: #362625;
 }
 
 .symptoms-introduction {
     margin-bottom: 20px;
+}
+
+.symptoms-introduction h2 {
+    text-transform: capitalize;
+}
+
+.symptoms-introduction p {
+    font-weight: 500;
 }
 
 .container-symptoms {
@@ -169,6 +178,7 @@ footer {
 
 .container-symptoms ul {
     list-style-type: none;
+    font-weight: 600;
 }
 
 /*----Symptoms section----*/
@@ -182,6 +192,17 @@ footer {
     display: flex;
     justify-content: center;
     gap: 20px;
+    align-items: center;
+    color: #362625;
+}
+
+.treatment-section h3 {
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.treatment-section p {
+    font-weight: 500;
 }
 
 .treatment {
@@ -191,13 +212,28 @@ footer {
     width: 500px;
     height: 200px;
     border-radius: 5px;
+    font-weight: 600;
 }
+
 
 .treatment-section li {
     list-style-type: none;
     align-items: center;
 }
 
+.tips-container h3 {
+    font-size: larger;
+    text-transform: capitalize;
+}
+
+.tips-container li {
+    list-style: none;
+    align-items: center;
+}
+
+.tips-container p {
+    font-weight: 500;
+}
 .tips {
     background: #C1716B;
     margin: 10px;
@@ -205,12 +241,10 @@ footer {
     width: 500px;
     height: 200px;
     border-radius: 5px;
-   justify-content: center;
+    justify-content: center;
+    font-weight: 600;
 }
 
-.tips-container li {
-    list-style: none;
-}
 
 /*-----Symptoms page-----*/
 
@@ -262,6 +296,7 @@ footer {
     border-radius: 5px;
 
 }
+
 .image-contact {
     border-radius: 10px;
     max-width: 600px;
