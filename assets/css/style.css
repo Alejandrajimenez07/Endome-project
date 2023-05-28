@@ -133,6 +133,10 @@ nav a:hover {
     font-weight: 600;
 }
 
+.container-stage p a {
+    text-decoration: none;
+}
+
 /*----Footer----*/
 
 .footer-container {
