@@ -346,6 +346,21 @@ footer {
     margin: 10px;
 }
 
+/*----Contact page image----*/
+
+/*----Thankyou page----*/
+
+.thankyou-container {
+    color: #362625;
+    background: #E6CACA;
+    text-align: center;
+    margin: 30px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
 /*----Media queries----*/
 
 @media only screen and (max-width: 640px) {
