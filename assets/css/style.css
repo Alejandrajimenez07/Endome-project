@@ -110,22 +110,21 @@ nav a:hover {
     display: flex;
     gap: 20px;
     justify-content: center;
-    margin: 30px 15px 30px;
-    color: #362625;
 }
 
 .container-stage {
     background: #C1716B;
     border-radius: 5px;
     text-align: center;
-    padding: 5px;
+    flex: 1 1 0px;
 }
 
 .container-stage p {
     font-weight: 500;
 }
+
 .container-stage ul {
-    margin: 20px;
+    margin: 15px 25px;
 }
 
 .container-stage ul li {
@@ -339,7 +338,9 @@ footer {
 @media only screen and (max-width: 640px) {
     .stages-container {
         flex-direction: column;
-        align-items: center;
+        width: 70%;
+        margin: auto;
+        margin-bottom: 20px;
     }
 
     .nav-link {
@@ -363,6 +364,7 @@ footer {
     .treatment-container {
         flex-direction: column;
     }
+
   }
 
   @media only screen and (min-width: 641px) {
