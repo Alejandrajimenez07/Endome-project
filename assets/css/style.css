@@ -110,22 +110,19 @@ nav a:hover {
     display: flex;
     gap: 20px;
     justify-content: center;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin: 30px 15px 30px;
     color: #362625;
 }
 
 .container-stage {
     background: #C1716B;
-    width: 200px;
-    height: 200px;
     border-radius: 5px;
     text-align: center;
     padding: 5px;
 }
 
 .container-stage ul {
-    list-style-type: none;
+    margin: 20px;
 }
 
 .container-stage ul li {
@@ -143,6 +140,7 @@ nav a:hover {
 
 footer {
     border-top: solid 1px #362625;
+    color: #362625;
 }
 
 .social-media {
@@ -197,8 +195,7 @@ footer {
 
 .treatment-container {
     text-align: center;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin: 15px 30px 30px;
     display: flex;
     justify-content: center;
     gap: 20px;
@@ -334,6 +331,8 @@ footer {
     margin: 10px;
 }
 
+/*----Media queries----*/
+
 @media only screen and (max-width: 640px) {
     .stages-container {
         flex-direction: column;
@@ -355,13 +354,22 @@ footer {
     .home {
         display: none;
     }
+    .symptoms-container {
+        flex-direction: column;
+    }
+    .treatment-container {
+        flex-direction: column;
+    }
   }
 
   @media only screen and (min-width: 641px) {
     .stages-container {
-        margin-left: 5px;
-        margin-right: 5px;
+        margin-left: 10px;
+        margin-right: 10px;
         margin-bottom: 20px;
+    }
+    .symptoms-container {
+        flex-direction: row;
     }
 
     .contact-image {
