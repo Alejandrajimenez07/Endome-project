@@ -157,14 +157,8 @@ footer {
 
 /*----Symptoms section----*/
 
-.symptoms-container {
-    text-align: center;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    color: #362625;
-}
-
 .symptoms-introduction {
+    text-align: center;
     margin-bottom: 20px;
 }
 
@@ -175,6 +169,12 @@ footer {
 .symptoms-introduction p {
     font-weight: 500;
 }
+.symptoms-container {
+    text-align: center;
+    margin: 30px 15px 30px;
+    color: #362625;
+    display: flex;
+}
 
 .container-symptoms {
     background: #C1716B;
@@ -182,20 +182,12 @@ footer {
     text-align: center;
     padding: 15px;
     margin: 10px;
-    display: flex;
-}
-
-.container-symptoms {
-    width: 400px;
-    height: 250px;
-    justify-content: center;
     gap: 15px;
-    display: inline-block;
     border-radius: 5px;
 }
 
 .container-symptoms ul {
-    list-style-type: none;
+   margin: 10px;
     font-weight: 600;
 }
 
@@ -227,16 +219,13 @@ footer {
     background: #C1716B;
     margin: 10px;
     padding: 15px;
-    width: 500px;
-    height: 200px;
     border-radius: 5px;
     font-weight: 600;
 }
 
 
 .treatment-section li {
-    list-style-type: none;
-    align-items: center;
+   margin: 10px 15px;
 }
 
 .tips-container h3 {
@@ -245,8 +234,7 @@ footer {
 }
 
 .tips-container li {
-    list-style: none;
-    align-items: center;
+    margin: 10px 15px;
 }
 
 .tips-container p {
@@ -257,8 +245,6 @@ footer {
     background: #C1716B;
     margin: 10px;
     padding: 15px;
-    width: 500px;
-    height: 200px;
     border-radius: 5px;
     justify-content: center;
     font-weight: 600;
