@@ -171,6 +171,9 @@ footer {
 .symptoms-introduction h2 {
     text-transform: capitalize;
 }
+.symptoms-link {
+    text-decoration: none;
+}
 
 .symptoms-introduction p {
     font-weight: 500;
@@ -218,6 +221,10 @@ footer {
 
 .treatment-section p {
     font-weight: 500;
+}
+
+.treatments-link {
+    text-decoration: none;
 }
 
 .treatment {
