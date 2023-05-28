@@ -365,6 +365,10 @@ footer {
     .main-header {
         margin-left: 5px;
     }
+
+    .home {
+        display: none;
+    }
   }
 
   @media only screen and (min-width: 641px) {
@@ -399,5 +403,6 @@ footer {
         width: 50%;
         margin: auto;
     }
+
 
   }
