@@ -121,6 +121,9 @@ nav a:hover {
     padding: 5px;
 }
 
+.container-stage p {
+    font-weight: 500;
+}
 .container-stage ul {
     margin: 20px;
 }
