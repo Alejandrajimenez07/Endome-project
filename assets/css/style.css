@@ -49,7 +49,9 @@ nav {
     margin-top: 5px;
     letter-spacing: 3px;
     margin-left: 20px;
-    font-weight: 700;
+    font-weight: 500;
+    font-size: 34px;
+    font: bold;
 }
 
 .header-link {
