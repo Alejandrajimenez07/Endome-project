@@ -2,12 +2,6 @@
 
 
 
-Screenshots for the README and testing should not be inside of `assets/` or `static/` image folders.
-(reminder: `assets/` and `static/` are for files used on the live site, not documentation)
-Consider adding a new folder called `documentation`, and add the amiresponsive screenshot inside of that folder.
-To add the image into your README, use this format:
-(assuming you have a new folder called `documentation` with an image called "mockup.png")
-
 ![Mockup image](documentation/img/amiresponsive.jpg)
 [Am I responsive](https://ui.dev/amiresponsive?url=https://alejandrajimenez07.github.io/Endome-project/)  
 [Live site](https://alejandrajimenez07.github.io/Endome-project/)
@@ -17,22 +11,22 @@ To add the image into your README, use this format:
 
 ### Colour Scheme
 
-- `#000000` used for primary text.
-- `#E84610` used for primary highlights.
-- `#4A4A4F` used for secondary text.
-- `#009FE3` used for secondary highlights.
+The colours used in this project are base on the logo, 
+
+- `B65952` used for the header, nav bar and footer.
+- `#C66963` used for main containers.
+- `#E9E0E1` used for body background.
+- `#362625` used for all text in the website.
+- `#E6CACA` used for get in touch container's background.
 
 
-Consider adding a link and screenshot for your colour scheme using "coolors".
-https://coolors.co/generate
 
-When you add a colour to the palette, the URL is dynamically updated, making it easier for you to return back to your colour palette later if needed.
 
 Example:
 
-I used [coolors.co](https://coolors.co/e84610-009fe3-4a4a4f-445261-d63649-e6ecf0-000000) to generate my colour palette.
+I used [coolors.co](https://coolors.co/user/palettes/646a10d8da6879000b379175) to generate my colour palette.
 
-![screenshot](documentation/coolors.png)
+![screenshot](documentation/img/colors-palette.png)
 
 ### Typography 
 
@@ -50,42 +44,35 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 
 | Size | Screenshot |
 | --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-home.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-home.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-home.png) |
-
-### About Page Wireframes
-
-| Size | Screenshot |
-| --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-about.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-about.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-about.png) |
-
-### Contact Page Wireframes
-
-| Size | Screenshot |
-| --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-contact.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-contact.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-contact.png) |
+| Mobile | ![screenshot](documentation/wireframes/wireframes-mobile.png) |
+| Tablet | ![screenshot](documentation/wireframes/wireframes-tablet.png) |
+| Desktop | ![screenshot](documentation/wireframes/wireframes-desktop.png) |
 
 
 ## Features
 
 ### Existing Features
 
-- **Title for feature #1**
+- **Header:**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - This is the header and logo of the website it is designed according to the Endometriosis diseases called 'Endome', making it easy to remember and identify for the user.
+    - The header has a hoover animation with a background color of #E6CACA.
+ 
 
-![screenshot](documentation/feature01.png)
+![screenshot](documentation/img/features/heading.png)
 
-- **Title for feature #2**
+- **Navigation bar:**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - This it is designed to provide the user with easy navigation across all three pages, the header incluides the navigation bar at right hand corner, the logo is located at the left hand corner which has been center to create balance on the bar.
+    -  The navigation bar provides a more accessible way to navigate thorough 'Home', 'Symptoms', and 'Get in touch' pages.
+    - The navigation bar also has a hoover with the same background as the header.
 
-![screenshot](documentation/feature02.png)
+    ![screenshot](documentation/img/features/nav-bar.png)
+
+   - When the screens is smaller than 640px 'home' page does not display this is with the purpose of having a more clean nav bar on smallers screens. (Tablets and phones.)
+   ![screenshot](documentation/img/features/nav-bar-tablet.png)
+   ![screenshot](documentation/img/features/nav-bar-phone.png)
+   
 
 - **Title for feature #3**
 
