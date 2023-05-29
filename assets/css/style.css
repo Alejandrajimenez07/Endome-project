@@ -113,15 +113,17 @@ nav a:hover {
 }
 
 .container-stage {
+    color: #362625;
     background: #C1716B;
     border-radius: 5px;
     text-align: center;
     flex: 1 1 0px;
     margin-right: 10px;
     margin-left: 10px;
+    font-weight: 600;
 }
 
-.container-stage p {
+.container-stage h3 p ul {
     font-weight: 500;
 }
 
@@ -164,6 +166,7 @@ footer {
 /*----Symptoms section----*/
 
 .symptoms-introduction {
+    color: #362625;
     text-align: center;
     margin-bottom: 20px;
 }
@@ -176,7 +179,7 @@ footer {
 }
 
 .symptoms-introduction p {
-    font-weight: 500;
+    font-weight: 600;
 }
 .symptoms-container {
     text-align: center;
@@ -220,7 +223,7 @@ footer {
 }
 
 .treatment-section p {
-    font-weight: 500;
+    font-weight: 600;
 }
 
 .treatments-link {
@@ -250,7 +253,7 @@ footer {
 }
 
 .tips-container p {
-    font-weight: 500;
+    font-weight: 600;
 }
 
 .tips {
@@ -286,7 +289,20 @@ footer {
     margin: 10px 40px;
     padding: 20px;
     text-align: center;
+}
+
+.contact-paragraph p {
+   font-weight: 600;
+}
+
+.form-text {
+    color: #362625;
     font-weight: 500;
+    text-align: center;
+}
+
+.form-text p {
+    font-weight: 600;
 }
 
 .contact-form-container {
@@ -305,12 +321,9 @@ footer {
 }
 
 .form-contact {
+    color: #362625;
     text-align: center;
-    font-weight: 500;
-}
-
-.form-text {
-    text-align: center;
+    font-weight: 600;
 }
 
 /*-----Submit button----*/
