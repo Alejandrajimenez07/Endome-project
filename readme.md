@@ -4,7 +4,8 @@
 
 ![Mockup image](documentation/img/amiresponsive.jpg)
 [Am I responsive](https://ui.dev/amiresponsive?url=https://alejandrajimenez07.github.io/Endome-project/)  
-[Live site](https://alejandrajimenez07.github.io/Endome-project/)
+
+On this website, I want to give information to users who are experiencing existing or new conditions of the endometriosis disease. The user will find explanations of the disease and what it is about, what its symptoms and treatments are, helpful tips, and a contact page where the user can subscribe to receive weekly blogs or get in touch. See live site [here](https://alejandrajimenez07.github.io/Endome-project/)
 
 
 ## UX
