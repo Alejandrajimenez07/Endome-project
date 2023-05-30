@@ -9,9 +9,10 @@
 
 ## UX
 
+
 ### Colour Scheme
 
-The colours used in this project are base on the logo, 
+The colours used in this project are base on the logo, which I made myself taking inspiration on a uterus image that is attached on the logo.
 
 - `B65952` used for the header, nav bar and footer.
 - `#C66963` used for main containers.
@@ -32,12 +33,10 @@ I used [coolors.co](https://coolors.co/user/palettes/646a10d8da6879000b379175) t
 
 #### Fonts
 
-- [Montserrat](https://fonts.google.com/specimen/Montserrat) was used for all text on the website.
+- [Montserrat](https://fonts.google.com/specimen/Montserrat) was used for all text on the website, it is a popular font for web design as it has high readability for the user.
 
 ## Wireframes
 
-
-To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.
 I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
 
 ### Home Page Wireframes
@@ -73,12 +72,26 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
    ![screenshot](documentation/img/features/nav-bar-tablet.png)
    ![screenshot](documentation/img/features/nav-bar-phone.png)
    
+- **Home Page Hero Image Session:**
 
-- **Title for feature #3**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - The home page contains a hero image with the logo, two headers with one parapagrah each and 4 containers with the stages of Endometriosis.
+    -  This page was build with nude colors, providing the user a more relax and warm atmosphere.
+    ![screenshot](documentation/img/features/Endome.png)
+    Logo picture.
+    ![screenshot](documentation/img/features/home-page.png)
+    Home page image.
+    
+    
 
-![screenshot](documentation/feature03.png)
+- **About Endome and Endometriosis session:**
+- The section contains two header and two paragraphs.
+- What is Endome section explains what is endome's organisation and what is the purpose of the website.
+- What is Endometriosis section contains information explaining what the disease consist of and it gives clear information to the user that wants to know more about it. 
+![screenshot](documentation/img/features/about-endome-session.png)
+
+- **About Endome and Endometriosis session:**
+
 
 ⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
