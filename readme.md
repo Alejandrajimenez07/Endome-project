@@ -76,84 +76,87 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 - **Home Page Hero Image Session:**
 
 
-    - The home page contains a hero image with the logo, two headers with one parapagrah each and 4 containers with the stages of Endometriosis.
+    - The home page contains a hero image with the logo, two headers with one parapagrah each and 4 containers with the stages of Endometriosis. Link can be found in [here](https://www.canva.com/design/DAFjGMIlZ5k/RosBMMaDAe1xsxmLJkwPpg/view?utm_content=DAFjGMIlZ5k&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish)
     -  This page was build with nude colors, providing the user a more relax and warm atmosphere.
     ![screenshot](documentation/img/features/Endome.png)
-    Logo picture.
+    (Logo image)
     ![screenshot](documentation/img/features/home-page.png)
-    Home page image.
+    (Home page image)
     
     
 
 - **About Endome and Endometriosis session:**
-- The section contains two header and two paragraphs.
-- What is Endome section explains what is endome's organisation and what is the purpose of the website.
-- What is Endometriosis section contains information explaining what the disease consist of and it gives clear information to the user that wants to know more about it. 
+
+
+  - The section contains two header and two paragraphs.
+  - What is Endome section explains what is endome's organisation and what is the purpose of the website.
+  - What is Endometriosis section contains information explaining what the disease consist of and it gives clear information to the user that wants to know more about it. 
 ![screenshot](documentation/img/features/about-endome-session.png)
 
-- **About Endome and Endometriosis session:**
+- **Stages section:**
+  - This section containes information about the different stages of Endometriosis helping the user to identify the stage they might be on.
+  - Each stage container contains a link where they can have more information with detailed explanation of each stage. The website can be found [here](https://www.endofound.org/stages-of-endometriosis).
+![screenshot](documentation/img/features/stages-section.png)
+- **Footer:**
+  -The footer is located at the bottom of all three pages and it has the same background color as the header, that gives consistency on the design.
+  -Footer contains the 'endome copyright 2023' and icons with social media links that will take you to external link. (Social media link does not diverts the users to real social media accounts).
+  ![screenshot](documentation/img/features/footer.png)
+
+- **Symptoms page:**
+  - At Symptoms page you will find three headers each one with one paragraph briefing each section and a list underneath.
+  - On symptoms section you can have information regarding endometriosis's symptoms, it gives a little brief about each symptom and how it can affect on daily life. I have also created 3 containers with different background to keep the consistency of the design and also make it easy to identify each list.
+  - Symptoms brief paragraph contains a [link](https://www.mayoclinic.org/diseases-conditions/endometriosis/symptoms-causes/syc-20354656) where the user can find more details information about each symtom and more.
+  ![screenshot](documentation/img/features/symptoms%20section%20.png)
+- **Treatments section**
+  - The second section follows the same scheme. First a brief explanation, followed by a list.
+   - The list the different treatment that people can get to try and easy the condition.
+   - Within the brief paragraph you will also found a [link](https://www.nhs.uk/conditions/endometriosis/) with more detail information about each treatment.
+- **Tips section:**
+  - Tips is aligned with treatments section, I strongly believe that looks better in a row instead of columns as the information of treatment is also related to tips.
+  - The tips's list contains some tips that the user will benefit from as this will help to ease the condition...
+  - The paragraph also contains a external [link](https://www.healthline.com/health/endometriosis/living-with-endometriosis) with more useful tips for the user.
+![screenshot](documentation/img/features/treatments-tips-section.png)
+
+- **Get in touch page**
+   - Get in touch contains a header with a paragraph inviting the user to fill up our contact page.
+   ![screenshot](documentation/img/features/getintouch-section.png)
+   - **Contact form:** Here you will find a contact form to fill up, first and last name are not required  but email is.
+   - It also has two check box for the user to subscribe and also request to be contacted.
+   - It has a 'Submit' button that is clickeable and it takes you to our 'thank you page'.
+   ![screenshot](documentation/img/features/contact-form.png)
+   - **Contact hero image:** I also added an image that gives freedom and relief vibes, this will make the user feel that they can trust us and this website is a place where they can feel secure and more confident with the information provided.
+   - The image also flows with the colors palette scheme and I think it blends with the desire design.
+   ![screenshot](documentation/img/features/contact-image.png)
+
+- **Thank you page:**
+  - Thank you page is the page where the user will be taking once the submit the form.
+  - The style of the page is very simple. It contains the main header and a little text, wrapped in a pale pink container.
+  - Thank you page has a redirection of 10 seconds that takes the user to the home page.
+   ![screenshot](documentation/img/features/thankyou-page.png)
 
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-Repeat as necessary for as many features as your site contains.
-
-Hint: the more, the merrier!
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 ### Future Features
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
-Do you have additional ideas that you'd like to include on your project in the future?
-Fantastic! List them here!
-It's always great to have plans for future improvements!
-Consider adding any helpful links or notes to help remind you in the future, if you revisit the project in a couple years.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-- Title for future feature #1
-    - Any additional notes about this feature.
-- Title for future feature #2
-    - Any additional notes about this feature.
-- Title for future feature #3
-    - Any additional notes about this feature.
+- **'Causes' on Home page:**
+    - In the future I will like to add another container bellow stages, briefing about the possible causes of Endometriosis.
+- **Expand all the information's containers:**
+    - I will also like to expand the containers with more detailed information of the info that already exists.
+- **When to see a GP:**
+    - Will add a 'When to see a GP' container with information that can help the user to decide when they should consult their GP.
 
 ## Tools & Technologies Used
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
-In this section, you should explain the various tools and technologies used to develop the project.
-Make sure to put a link (where applicable) to the source, and explain what each was used for.
-Some examples have been provided, but this is just a sample only, your project might've used others.
-Feel free to delete any unused items below as necessary.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 - [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
 - [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
-- [CSS :root variables](https://www.w3schools.com/css/css3_variables.asp) used for reusable styles throughout the site.
 - [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) used for an enhanced responsive layout.
-- [CSS Grid](https://www.w3schools.com/css/css_grid.asp) used for an enhanced responsive layout.
-- [JavaScript](https://www.javascript.com) used for user interaction on the site.
-- [Python](https://www.python.org) used as the back-end programming language.
 - [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`)
 - [GitHub](https://github.com) used for secure online code storage.
 - [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
 - [Gitpod](https://gitpod.io) used as a cloud-based IDE for development.
-- [Bootstrap](https://getbootstrap.com) used as the front-end CSS framework for modern responsiveness and pre-built components.
-- [Materialize](https://materializecss.com) used as the front-end CSS framework for modern responsiveness and pre-built components.
-- [Flask](https://flask.palletsprojects.com) used as the Python framework for the site.
-- [Django](https://www.djangoproject.com) used as the Python framework for the site.
-- [MongoDB](https://www.mongodb.com) used as the non-relational database management with Flask.
-- [SQLAlchemy](https://www.sqlalchemy.org) used as the relational database management with Flask.
-- [PostgreSQL](https://www.postgresql.org) used as the relational database management.
-- [ElephantSQL](https://www.elephantsql.com) used as the Postgres database.
-- [Heroku](https://www.heroku.com) used for hosting the deployed back-end site.
-- [Cloudinary](https://cloudinary.com) used for online static file storage.
-- [Stripe](https://stripe.com) used for online secure payments of ecommerce products/services.
-- [AWS S3](https://aws.amazon.com/s3) used for online static file storage.
 
 ## Testing
 
@@ -162,11 +165,11 @@ For all testing, please refer to the [TESTING.md](TESTING.md) file.
 ## Deployment
 
 The site was deployed to GitHub Pages. The steps to deploy are as follows:
-- In the [GitHub repository](https://github.com/Jonathan97-web/Brainteaser), navigate to the Settings tab 
+- In the [GitHub repository](https://github.com/Alejandrajimenez07/Endome-project), navigate to the Settings tab 
 - From the source section drop-down menu, select the **Main** Branch, then click "Save".
 - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found [here](https://jonathan97-web.github.io/Brainteaser)
+The live link can be found [here](https://alejandrajimenez07.github.io/Endome-project/)
 
 ### Local Deployment
 
@@ -176,18 +179,18 @@ This project can be cloned or forked in order to make a local copy on your own s
 
 You can clone the repository by following these steps:
 
-1. Go to the [GitHub repository](https://github.com/Jonathan97-web/Brainteaser) 
+1. Go to the [GitHub repository](https://github.com/Alejandrajimenez07/Endome-project) 
 2. Locate the Code button above the list of files and click it 
 3. Select if you prefer to clone using HTTPS, SSH, or GitHub CLI and click the copy button to copy the URL to your clipboard
 4. Open Git Bash or Terminal
 5. Change the current working directory to the one where you want the cloned directory
 6. In your IDE Terminal, type the following command to clone my repository:
-	- `git clone https://github.com/Jonathan97-web/Brainteaser.git`
+	- `git clone https://github.com/Alejandrajimenez07/Endome-project`
 7. Press Enter to create your local clone.
 
 Alternatively, if using Gitpod, you can click below to create your own workspace using this repository.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Jonathan97-web/Brainteaser)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Alejandrajimenez07/Endome-project)
 
 Please note that in order to directly open the project in Gitpod, you need to have the browser extension installed.
 A tutorial on how to do that can be found [here](https://www.gitpod.io/docs/configure/user-settings/browser-extension).
@@ -197,7 +200,7 @@ A tutorial on how to do that can be found [here](https://www.gitpod.io/docs/conf
 By forking the GitHub Repository, we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original owner's repository.
 You can fork this repository by using the following steps:
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Jonathan97-web/Brainteaser)
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Alejandrajimenez07/Endome-project)
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. Once clicked, you should now have a copy of the original repository in your own GitHub account!
 
