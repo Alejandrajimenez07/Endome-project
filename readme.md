@@ -55,7 +55,7 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 - **Header:**
 
     - This is the header and logo of the website it is designed according to the Endometriosis diseases called 'Endome', making it easy to remember and identify for the user.
-    - The header has a hoover animation with a background color of #E6CACA.
+    - The header has a hover animation with a background color of #E6CACA.
  
 
 ![screenshot](documentation/img/features/heading.png)
@@ -64,7 +64,8 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 
     - This it is designed to provide the user with easy navigation across all three pages, the header incluides the navigation bar at right hand corner, the logo is located at the left hand corner which has been center to create balance on the bar.
     -  The navigation bar provides a more accessible way to navigate thorough 'Home', 'Symptoms', and 'Get in touch' pages.
-    - The navigation bar also has a hoover with the same background as the header.
+    - The navigation bar also has a hover with the same background as the header.
+    - I added space lettering to both header and nav bar to make it easier to read.
 
     ![screenshot](documentation/img/features/nav-bar.png)
 
@@ -78,8 +79,9 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 
     - The home page contains a hero image with the logo, two headers with one parapagrah each and 4 containers with the stages of Endometriosis. Link can be found in [here](https://www.canva.com/design/DAFjGMIlZ5k/RosBMMaDAe1xsxmLJkwPpg/view?utm_content=DAFjGMIlZ5k&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish)
     -  This page was build with nude colors, providing the user a more relax and warm atmosphere.
+      **Logo:**
     ![screenshot](documentation/img/features/Endome.png)
-    (Logo image)
+    **Home page image:**
     ![screenshot](documentation/img/features/home-page.png)
     (Home page image)
     
@@ -147,9 +149,6 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
     - Will add a 'When to see a GP' container with information that can help the user to decide when they should consult their GP.
 
 ## Tools & Technologies Used
-
-
-
 - [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
 - [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
 - [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) used for an enhanced responsive layout.
@@ -160,7 +159,7 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 
 ## Testing
 
-For all testing, please refer to the [TESTING.md](TESTING.md) file.
+The site has been tested by friends and family on a variety of mobile devices (IOS-Android)(Chrome, Opera, Safari) and all links and the contact form functioned as it should. All input fields of the contact form function correctly, and require the requested input field (Email Address) before submitting.
 
 ## Deployment
 
@@ -206,87 +205,58 @@ You can fork this repository by using the following steps:
 
 ### Local VS Deployment
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
-Use this space to discuss any differences between the local version you've developed, and the live deployment site on GitHub Pages.
+I could not find any differences between the local and deployment version.
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 ## Credits
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+I have faced many challenges with this project, particuraly as I was affected on my ability to learn and focus due some personal issues I had while I was doing the course. 
 
-In this section you need to reference where you got your content, media, and extra help from.
-It is common practice to use code from other repositories and tutorials,
-however, it is important to be very specific about these sources to avoid plagiarism.
+I want to thank to Iris_ci Cohort Facilitator and Student Care from Code Institute for supporting me through the journey by giving me advise and specially encouring me to continue with this journey.
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+
+As start I have took inspiration from 'Love running project' for the header, nav bar and footer.
+
+**For further HTML and CSS issues I encountered these sites have been used for reference:**
+  - I played this [game](flexboxfroggy.com) to help to understand how to flex box works.
+  - I have also watched this [video](https://www.youtube.com/watch?v=tXIhdp5R7sc) and this [video](https://www.youtube.com/watch?v=18VLSXfsj94&t=915s) to help to understand more and also choose if i wanted to use grid or flex box. Which the first video was sent by Martina and the second I did found it myself in youtube.
+  - I have research on [w3school](https://www.w3schools.com/CSSref/sel_hover.php) to remind how to apply hover effect
+  - I have visit this [website](https://webdesign.tutsplus.com/articles/flexbox-vs-css-grid-which-should-you-use--cms-30184) to learn more about layouts.
+  - I have also watched several videos from this [youtube](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9xx-RRVNG187ETT2ekWFsq) chanel called 'Web Dev simplified' it has a lot of videos that helps to understand better web development for beginners and to find potencial solutions in any issue I faced. (I have attached the link for the list of videos I have watched).
+  - I have also used this two Readme files https://github.com/CarinaAJ/p1-aurora-borealis/blob/main/README.md#credits and https://github.com/CluelessBiker/project1-la-lucha/blob/main/README.md#features that was send by Martina to help me to understand how to make it and also use it as a guide/inspiration to write this document.
+  - I borrowed the folloring code from W3school for the contact [form](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_input_type_submit) and have also borrow another peace of [code](https://www.w3schools.com/csS/css3_buttons.asp) to style the 'submit' button.
+
+
 
 ### Content
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-Use this space to provide attribution links to any borrowed code snippets, elements, or resources.
-A few examples have been provided below to give you some ideas.
-
-Ideally, you should provide an actual link to every resource used, not just a generic link to the main site!
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 | Source | Location | Notes |
 | --- | --- | --- |
 | [Markdown Builder](https://traveltimn.github.io/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
-| [Chris Beams](https://chris.beams.io/posts/git-commit) | version control | "How to Write a Git Commit Message" |
+| [freeCodeCamp](https://www.freecodecamp.org/news/a-beginners-guide-to-git-how-to-write-a-good-commit-message/) | version control | "How to Write a Git Commit Message" |
 | [W3Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp) | entire site | responsive HTML/CSS/JS navbar |
-| [W3Schools](https://www.w3schools.com/howto/howto_css_modals.asp) | contact page | interactive pop-up (modal) |
-| [W3Schools](https://www.w3schools.com/css/css3_variables.asp) | entire site | how to use CSS :root variables |
 | [Flexbox Froggy](https://flexboxfroggy.com/) | entire site | modern responsive layouts |
-| [Grid Garden](https://cssgridgarden.com) | entire site | modern responsive layouts |
-| [StackOverflow](https://stackoverflow.com/a/2450976) | quiz page | Fisher-Yates/Knuth shuffle in JS |
-| [YouTube](https://www.youtube.com/watch?v=YL1F4dCUlLc) | leaderboard | using `localStorage()` in JS for high scores |
-| [YouTube](https://www.youtube.com/watch?v=u51Zjlnui4Y) | PP3 terminal | tutorial for adding color to the Python terminal |
-| [strftime](https://strftime.org) | CRUD functionality | helpful tool to format date/time from string |
-| [WhiteNoise](http://whitenoise.evans.io) | entire site | hosting static files on Heroku temporarily |
+| [YouTube](https://www.youtube.com/watch?v=1PnVor36_40) | youtube channel | Learn CSS in 20 minutes |
+| [YouTube](https://www.youtube.com/watch?v=8JJ101D3knE) | youtube video | Git Tutorial for Beginners |
+| [Canva](https://strftime.org) | Logo maker | Website to create free logos |
 
 ### Media
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-Use this space to provide attribution links to any images, videos, or audio files borrowed from online.
-A few examples have been provided below to give you some ideas.
-
-If you're the owner (or a close acquaintance) of all media files, then make sure to specify this.
-Let the assessors know that you have explicit rights to use the media files within your project.
-
-Ideally, you should provide an actual link to every media file used, not just a generic link to the main site!
-The list below is by no means exhaustive. Within the Code Institute Slack community, you can find more "free media" links
-by sending yourself the following command: `!freemedia`.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 | Source | Location | Type | Notes |
 | --- | --- | --- | --- |
-| [Pexels](https://www.pexels.com) | entire site | image | favicon on all pages |
-| [Lorem Picsum](https://picsum.photos) | home page | image | hero image background |
-| [Unsplash](https://unsplash.com) | product page | image | sample of fake products |
-| [Pixabay](https://pixabay.com) | gallery page | image | group of photos for gallery |
-| [Wallhere](https://wallhere.com) | footer | image | background wallpaper image in the footer |
-| [This Person Does Not Exist](https://thispersondoesnotexist.com) | testimonials | image | headshots of fake testimonial images |
-| [Audio Micro](https://www.audiomicro.com/free-sound-effects) | game page | audio | free audio files to generate the game sounds |
-| [Videvo](https://www.videvo.net/) | home page | video | background video on the hero section |
-| [TinyPNG](https://tinypng.com) | entire site | image | tool for image compression |
+| [canva](https://www.canva.com/design/DAFjGMIlZ5k/RosBMMaDAe1xsxmLJkwPpg/view?utm_content=DAFjGMIlZ5k&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish ) | home page | image | Logo of the website |
+| [Pexels](https://www.pexels.com/photo/woman-in-yellow-dress-standing-on-pink-petaled-flower-field-1146242/) | contact page | image | image for contact page |
+
 
 ### Acknowledgements
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+- I would like to thank my Code Institute mentor, [Martina](https://github.com/TravelTimN) for their support throughout the development of this project and for helping through the course, sending me tutorials and useful tips to implement on my project and specially for guiding me in the project. She also gave me very useful advise and she always encouraged me to keep going and always believed on me.
 
-Use this space to provide attribution to any supports that helped, encouraged, or supported you throughout the development stages of this project.
-A few examples have been provided below to give you some ideas.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-- I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for their support throughout the development of this project.
-- I would like to thank the [Code Institute](https://codeinstitute.net) tutor team for their assistance with troubleshooting and debugging some project issues.
 - I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the moral support; it kept me going during periods of self doubt and imposter syndrome.
 - I would like to thank my partner (John/Jane), for believing in me, and allowing me to make this transition into software development.
 - I would like to thank my employer, for supporting me in my career development change towards becoming a software developer.
+
+- Least but not less I want to thank [Jonathan](https://github.com/Jonathan97-web/) for being such of nice person, give me loads of support and helping me through the whole course journey, he always explained and replied any question I had very patiently in the most easiest possible way for me to understand, giving me examples, sending me videos, tutorials and games to help me understand better. He also did help me to find solutions with problems I faced on the project specially with the CSS positioning... Jonathan thanks a lot for everything you done for me, this course and project would not been as great as it is without your help!
