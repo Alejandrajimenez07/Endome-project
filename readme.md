@@ -68,9 +68,10 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 
     ![screenshot](documentation/img/features/nav-bar.png)
 
-   - When the screens is smaller than 640px 'home' page does not display this is with the purpose of having a more clean nav bar on smallers screens. (Tablets and phones.)
-   ![screenshot](documentation/img/features/nav-bar-tablet.png)
+   - When the screens is smaller than 640px 'home' page does not display this is with the purpose of having a more clean nav bar on smallers screens.
+   
    ![screenshot](documentation/img/features/nav-bar-phone.png)
+   Phone view
    
 - **Home Page Hero Image Session:**
 
