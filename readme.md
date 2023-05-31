@@ -154,7 +154,36 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 
 ## Testing
 
-The site has been tested by friends and family on a variety of mobile devices (IOS-Android)(Chrome, Opera, Safari) and all links and the contact form functioned as it should. All input fields of the contact form function correctly, and require the requested input field (Email Address) before submitting.
+The site has been tested by friends and family on a variety of mobile devices (IOS-Android)(Chrome, Opera, Safari) and all links and the contact form functioned as it should on the differents screen sizes. All input fields of the contact form function correctly, and require the requested input field (Email Address) before submitting.
+
+I personally tested the site extensively with dev tools to ensure the site works responsively not only on mobile devices but also on medium to larger screens.
+
+One of the biggest problems that I found is to set the positioning as I did not learn about flex-grid, only floating position and by my mentor recommendation, watched few videos, I decided to use display:flex to fix and achieve the desire layout.
+
+## Validator Testing:
+
+ **HTML validator**:
+
+ Minor errors were returned when passing through the official W3C validator. 
+ - Those errors has been easily fixed as it consisted of some extra spaces, capital letter in one image file and some br elements that was not authorise to used inside the li element.
+   - Home page:
+    ![screenshot](documentation/img/testing-screenshots/html-homepage-test.png)
+    - Symptoms page:
+    ![screenshot](documentation/img/testing-screenshots/html-symptomspage.png)
+    - Contact page:
+    ![screenshot](documentation/img/testing-screenshots/html-contact.png)
+    - Thank you page:
+    ![screenshot](documentation/img/testing-screenshots/html-thankyou.png)
+
+ **CSS validator:**
+
+  No errors were found when testing with W3C validor.
+  ![screenshot](documentation/img/testing-screenshots/css-test.png)
+
+
+
+
+
 
 ## Deployment
 
