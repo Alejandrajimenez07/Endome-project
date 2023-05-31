@@ -79,8 +79,10 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 
     - The home page contains a hero image with the logo, two headers with one parapagrah each and 4 containers with the stages of Endometriosis. Link can be found in [here](https://www.canva.com/design/DAFjGMIlZ5k/RosBMMaDAe1xsxmLJkwPpg/view?utm_content=DAFjGMIlZ5k&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish)
     -  This page was build with nude colors, providing the user a more relax and warm atmosphere.
-      **Logo:**
+
+     **Logo:**
     ![screenshot](documentation/img/features/endome.png)
+
     **Home page image:**
     ![screenshot](documentation/img/features/home-page.png)
    
