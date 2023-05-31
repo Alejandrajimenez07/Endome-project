@@ -165,7 +165,7 @@ One of the biggest problems that I found is to set the positioning as I did not 
  **HTML validator**:
 
  Minor errors were returned when passing through the official W3C validator. 
- - Those errors has been easily fixed as it consisted of some extra spaces, capital letter in one image file and some br elements that was not authorise to used inside the li element.
+ - Those errors has been easily fixed as it consisted of some extra spaces, two closing tags thats did not have opening tags, capital letter in one image file and some br elements that was not authorise to used inside the li element.
    - Home page:
     ![screenshot](documentation/img/testing-screenshots/html-homepage-test.png)
     - Symptoms page:
@@ -180,10 +180,39 @@ One of the biggest problems that I found is to set the positioning as I did not 
   No errors were found when testing with W3C validor.
   ![screenshot](documentation/img/testing-screenshots/css-test.png)
 
+ **Lighthouse:**
+- The page achieved great performance, I have test all three pages for mobile and desktop:
+  - Mobile:
+    - Home page:
+    ![screenshot](documentation/img/testing-screenshots/lighthouse-home-test.png)
+    - Symptoms page:
+    ![screenshot](documentation/img/testing-screenshots/lighthouse-symptoms-test.png)
+    - Contact page: 
+    ![screenshot](documentation/img/testing-screenshots/lighthouse-contact-page.png)
+    - Thank you page:
+    ![screenshot](documentation/img/testing-screenshots/lighthouse-thankyoupage.png)
+    Having the following error on accessibility, this has been applied to take the user back to the home page:
+      - ![screenshot](documentation/img/testing-screenshots/testing-bug.png)
+  - Desktop:
+    - Home Page:
+    ![screenshot](documentation/img/testing-screenshots/lighthouse-home-desktop.png)
+    - Symptoms page:
+    ![screenshot](documentation/img/testing-screenshots/lighthouse-symptoms-desktop.png)
+    - Contact page:
+    ![screenshot](documentation/img/testing-screenshots/lighthouse-contact-desktop.png)
+    - Thank you page:
+    ![screenshot](documentation/img/testing-screenshots/lighthouse-thankyoupage-desktop.png)
+    
 
-
-
-
+**GTmetrix:**
+- Home page:
+    ![screenshot](documentation/img/testing-screenshots/gtmetrix-homepage.png)
+- Symptoms page:
+    ![screenshot](documentation/img/testing-screenshots/gtmetrix-symptomspage.png)
+- Contact page:
+    ![screenshot](documentation/img/testing-screenshots/gtmetrix-contactpage.png)
+- Thank you page:
+    ![screenshot](documentation/img/testing-screenshots/gtmetrix-thankyoupage.png)
 
 ## Deployment
 
