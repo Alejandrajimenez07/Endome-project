@@ -77,17 +77,13 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
    
 - **Home Page Hero Image Session:**
 
-
     - The home page contains a hero image with the logo, two headers with one parapagrah each and 4 containers with the stages of Endometriosis. Link can be found in [here](https://www.canva.com/design/DAFjGMIlZ5k/RosBMMaDAe1xsxmLJkwPpg/view?utm_content=DAFjGMIlZ5k&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish)
     -  This page was build with nude colors, providing the user a more relax and warm atmosphere.
       **Logo:**
-    ![screenshot](documentation/img/features/Endome.png)
+    ![screenshot](documentation/img/features/endome.png)
     **Home page image:**
     ![screenshot](documentation/img/features/home-page.png)
-    (Home page image)
-    
-    
-
+   
 - **About Endome and Endometriosis session:**
 
 
@@ -136,8 +132,6 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
   - The style of the page is very simple. It contains the main header and a little text, wrapped in a pale pink container.
   - Thank you page has a redirection of 10 seconds that takes the user to the home page.
    ![screenshot](documentation/img/features/thankyou-page.png)
-
-
 
 ### Future Features
 
