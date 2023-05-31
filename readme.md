@@ -81,9 +81,11 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
     -  This page was build with nude colors, providing the user a more relax and warm atmosphere.
 
      **Logo:**
+
     ![screenshot](documentation/img/features/endome.png)
 
     **Home page image:**
+    
     ![screenshot](documentation/img/features/home-page.png)
    
 - **About Endome and Endometriosis session:**
@@ -207,7 +209,7 @@ One of the biggest problems that I found is to set the positioning as I did not 
   - Home Page:
 
      ![screenshot](documentation/img/testing-screenshots/lighthouse-home-desktop.png)
-     
+
   - Symptoms page:
 
      ![screenshot](documentation/img/testing-screenshots/lighthouse-symptoms-desktop.png)
