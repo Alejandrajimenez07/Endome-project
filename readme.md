@@ -184,25 +184,25 @@ One of the biggest problems that I found is to set the positioning as I did not 
 
  **Lighthouse:**
 - The page achieved great performance, I have test all three pages for mobile and desktop:
-  - Mobile:
-    - Home page:
+  - **Mobile:**
+  - Home page*:
     ![screenshot](documentation/img/testing-screenshots/lighthouse-home-test.png)
-    - Symptoms page:
+  - Symptoms page:
     ![screenshot](documentation/img/testing-screenshots/lighthouse-symptoms-test.png)
-    - Contact page: 
+  - Contact page: 
     ![screenshot](documentation/img/testing-screenshots/lighthouse-contact-page.png)
-    - Thank you page:
+  - Thank you page:
     ![screenshot](documentation/img/testing-screenshots/lighthouse-thankyoupage.png)
     Having the following error on accessibility, this has been applied to take the user back to the home page:
       - ![screenshot](documentation/img/testing-screenshots/testing-bug.png)
-  - Desktop:
-    - Home Page:
+  - **Desktop:**
+  - Home Page:
     ![screenshot](documentation/img/testing-screenshots/lighthouse-home-desktop.png)
-    - Symptoms page:
+  - Symptoms page:
     ![screenshot](documentation/img/testing-screenshots/lighthouse-symptoms-desktop.png)
-    - Contact page:
+  - Contact page:
     ![screenshot](documentation/img/testing-screenshots/lighthouse-contact-desktop.png)
-    - Thank you page:
+  - Thank you page:
     ![screenshot](documentation/img/testing-screenshots/lighthouse-thankyoupage-desktop.png)
     
 
