@@ -77,7 +77,7 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
    
 - **Home Page Hero Image Session:**
 
-    - The home page contains a hero image with the logo, two headers with one parapagrah each and 4 containers with the stages of Endometriosis. Link can be found in [here](https://www.canva.com/design/DAFjGMIlZ5k/RosBMMaDAe1xsxmLJkwPpg/view?utm_content=DAFjGMIlZ5k&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish)
+    - The home page contains a hero image with the logo, two headers with one parapagrah each and 4 containers with the stages of Endometriosis. Link can be found in [here](https://www.canva.com/design/DAFjGMIlZ5k/RosBMMaDAe1xsxmLJkwPpg/view?utm_content=DAFjGMIlZ5k&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish).
     -  This page was build with nude colors, providing the user a more relax and warm atmosphere.
 
      **Logo:**
@@ -198,12 +198,14 @@ One of the biggest problems that I found is to set the positioning as I did not 
   - Contact page: 
 
     ![screenshot](documentation/img/testing-screenshots/lighthouse-contact-page.png)
+
   - Thank you page:
 
     ![screenshot](documentation/img/testing-screenshots/lighthouse-thankyoupage.png)
 
     Thank you page is having the following error on accessibility, this has been applied to take the user back to the home page:
-      - ![screenshot](documentation/img/testing-screenshots/testing-bug.png)
+      
+      ![screenshot](documentation/img/testing-screenshots/testing-bug.png)
 
   - **Desktop:**
   - Home Page:
@@ -216,8 +218,7 @@ One of the biggest problems that I found is to set the positioning as I did not 
 
   - Contact page:
 
-     ![screenshot](documentation/img/testing-screenshots/
-     lighthouse-contact-desktop.png)
+     ![screenshot](documentation/img/testing-screenshots/lighthouse-contact-desktop.png)
 
   - Thank you page
 
