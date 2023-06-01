@@ -97,7 +97,7 @@ nav a:hover {
 /*---Hero image----*/
 
 .img {
-    width: 100%; /* or max-width: 100%; */
+    width: 100%;
     height: auto;
   }
 .hero-image {
